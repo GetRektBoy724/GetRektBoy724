@@ -9,4 +9,4 @@
 - ⚡ Fun fact: Im still very,very young 
 
 [![GetRektBoy724's GitHub stats](https://github-readme-stats.vercel.app/api?username=GetRektBoy724&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Programming Languages(https://github-readme-stats.vercel.app/api/top-langs/?username=GetRektBoy724&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GetRektBoy724&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
