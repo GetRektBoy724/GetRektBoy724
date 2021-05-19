@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [MeterPwrShell](https://github.com/GetRektBoy724/MeterPwrShell),[BetterXencrypt](https://github.com/GetRektBoy724/BetterXencrypt), and [SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker)
 - 🌱 I’m currently learning C# and PHP
 - 👯 I’m looking to collaborate on anything i find interesting
-- 🤔 I’m looking for help with gaining SeDebugPrivilege on non-admin user 😂
+- 🤔 I’m looking for help with reading `.text section` of a DLL with C#
 - 💬 Ask me about anything i know 😂
 - 📫 How to reach me: Use Discord for quick response,my ID : DeadSec#4077
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
