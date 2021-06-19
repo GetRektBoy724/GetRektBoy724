@@ -1,6 +1,6 @@
 ### Hi there, Im GetRektBoy724 👋
 
-- 🔭 I’m currently working on [MeterPwrShell](https://github.com/GetRektBoy724/MeterPwrShell) and [SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker)
+- 🔭 I’m currently working on [SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker) and [JALSI](https://github.com/GetRektBoy724/JALSI)
 - 🌱 I’m currently learning anything around C# and hacking
 - 👯 I’m looking to collaborate on anything i find interesting
 - 🤔 I’m looking for help with IAT & EAT unhooking
