@@ -7,6 +7,6 @@
 - 💬 Ask me about anything i know 😂
 - 📫 How to reach me: Use Discord for quick response,my ID : GetRektBoy724#1337
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
-- Current status : Stuck at developing IAT unhooker for SharpUnhooker,get bored,create a [new project called JALSI](https://github.com/GetRektBoy724/JALSI) 😂
+- Current status : pls [help](https://stackoverflow.com/questions/68110637/c-sharp-createprocess-api-returned-740-when-used-for-spawning-task-manager)
 
 [![GetRektBoy724's GitHub stats](https://github-readme-stats.vercel.app/api?username=GetRektBoy724&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
