@@ -12,4 +12,4 @@
 
 [![GetRektBoy724's GitHub stats](https://github-readme-stats.vercel.app/api?username=GetRektBoy724&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=GetRektBoy724)](https://github.com/ryo-ma/github-profile-trophy)
