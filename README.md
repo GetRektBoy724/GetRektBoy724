@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker) and [TripleS](https://github.com/GetRektBoy724/TripleS)
 - 🌱 I’m currently learning anything around C# and hacking
 - 👯 I’m looking to collaborate on anything i find interesting
-- 🤔 I’m looking for help with IAT unhooking
+- 🤔 I’m looking for help with how to evade AV's memory scans and shellcode survival in memory
 - 💬 Ask me about anything i know 😂
 - 📫 How to reach me: Use Discord for quick response,my ID : GetRektBoy724#1337
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
