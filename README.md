@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything i find interesting
 - 🤔 I’m looking for help with how to evade AV's memory scans and shellcode survival in memory
 - 💬 Ask me about anything i know 😂
-- 📫 How to reach me: Use Discord for quick response,my ID : GetRektBoy724#1337
+- 📫 How to reach me: Use Discord for quick response,my ID : GetRektBoy724#6773
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
 - 💵 You want to buy me an ice cream? : 
      - Donate BTC at `3Q67rwmy9qQRuhRb6xBuKbb4BdbXZWN1Aa`
