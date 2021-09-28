@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker) and [TripleS](https://github.com/GetRektBoy724/TripleS)
 - 🌱 I’m currently learning anything around C# and hacking
 - 👯 I’m looking to collaborate on anything i find interesting
-- 🤔 I’m looking for help with how can i stop being a disappointment in front of my parents 🥲
+- 🤔 I’m looking for help with how can i stop being a disappointment in front of my parents
 - 💬 Ask me about anything i know 😂
 - 📫 How to reach me: Use Discord for quick response, my ID : GetRektBoy724#6773
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
