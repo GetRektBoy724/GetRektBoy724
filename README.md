@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker) and [TripleS](https://github.com/GetRektBoy724/TripleS)
 - 🌱 I’m currently learning anything around C# and hacking
 - 👯 I’m looking to collaborate on anything i find interesting
-- 🤔 I’m looking for tips of bypassing [pe-sieve](https://github.com/hasherezade/pe-sieve) and [moneta](https://github.com/forrest-orr/moneta)
+- 🤔 I’m looking for help for bypassing Windows Defender's Cloud-Delivered Protection
 - 💬 Ask me about anything i know 😂
 - 📫 How to reach me: Use Discord for quick response, my ID : GetRektBoy724#6773
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
