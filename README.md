@@ -1,10 +1,10 @@
 ### Hi there, Im GetRektBoy724 👋
 
 - 🔭 I’m currently working on my own RAT/Implant
-- 🌱 I’m currently learning anything around C# and hacking
+- 🌱 I’m currently learning about pentesting and malware development
 - 👯 I’m looking to collaborate on anything i find interesting
-- 🤔 I’m looking for help for bypassing Windows Defender's Cloud-Delivered Protection
-- 💬 Ask me about anything i know 😂
+- 🤔 I’m looking for help for fixing my mental issues
+- 💬 Ask me about anything around malware development
 - 📫 How to reach me: Use Discord for quick response, my ID : GetRektBoy724#6773
 - ⚡ Fun fact: Sometime, age doesn't determine your skills
 - 💵 You want to buy me an ice cream? : 
