@@ -1,11 +1,11 @@
 ### Hi there, Im GetRektBoy724 👋
 
-- 🔭 I’m currently working on my own RAT/Implant
+- 🔭 I’m currently working on my [SyscallShuffler](https://github.com/GetRektBoy724/SyscallShuffler).
 - 🌱 I’m currently learning about pentesting and malware development
 - 👯 I’m looking to collaborate on anything i find interesting
 - 🤔 I’m looking for help for fixing my mental issues
 - 💬 Ask me about anything around malware development
-- 📫 How to reach me: Use Discord for quick response, my ID : GetRektBoy724#6773
+- 📫 How to reach me: Use Discord for quick response, my ID is : GetRektBoy724#6773
 - ⚡ Fun fact: Sometimes, age doesn't determine your abilities
 - 💵 You want to buy me an ice cream? : 
      - Donate BTC at `bc1qe7snl4azqydn4juz42n8sfus323rwe8ytfprrr`
