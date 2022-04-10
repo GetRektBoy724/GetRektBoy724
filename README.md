@@ -1,6 +1,6 @@
 ### Hi there, Im GetRektBoy724 👋
 
-- 🔭 I’m currently working on my [SyscallShuffler](https://github.com/GetRektBoy724/SyscallShuffler).
+- 🔭 I’m currently working on my unreleased data/document exfiltrator
 - 🌱 I’m currently learning about pentesting and malware development
 - 👯 I’m looking to collaborate on anything i find interesting
 - 🤔 I’m looking for help for fixing my mental issues
