@@ -1,7 +1,7 @@
 ### Hi there, Im GetRektBoy724 👋
 
-- 🔭 I’m currently working on an old project of mine.
-- 🌱 I’m currently learning about pentesting and malware development
+- 🔭 I’m currently working on my maldriver.
+- 🌱 I’m currently learning about pentesting, malware development, and reverse engineering.
 - 👯 I’m looking to collaborate on anything i find interesting
 - 🤔 I’m looking for help for fixing my mental issues
 - 💬 Ask me about anything around malware development
